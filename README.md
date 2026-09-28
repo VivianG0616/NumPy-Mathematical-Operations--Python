@@ -84,6 +84,8 @@ Some of the NumPy concepts demonstrated in this project include:
 
 ## Code Snippets
 
+
+
 ## Key Learning Outcome
 
 This project helped me understand how NumPy can be applied to numerical problems and real-world scenarios, while also strengthening my understanding of arrays, mathematical operations, sequences, and basic statistical concepts.

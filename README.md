@@ -50,7 +50,7 @@ The exercise covered:
 - Comparing results as the number of terms increases
 - Understanding convergence
 
-Bonus — Energy Consumption Analysis
+## Bonus — Energy Consumption Analysis
 
 Built a small numerical experiment using electricity consumption data from a seven-day period.
 
@@ -83,6 +83,29 @@ Some of the NumPy concepts demonstrated in this project include:
 - Jupyter Notebook
 
 ## Code Snippets
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/d8cacd38-05ef-4823-9026-37abefb9b6d7" />
+
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/0b4d6e24-51ce-4c81-b4c3-875f62c12b9e" />
+
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/9dc1a845-a42e-42e4-8eaf-0000c1ffc979" />
+
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/953233ae-b16a-4e93-8a7e-5055a09ded91" />
+
+
+<img width="961" height="630" alt="Image" src="https://github.com/user-attachments/assets/ad57e621-7fdc-435d-a608-7359ebbd711d" />
+
+
+<img width="961" height="636" alt="Image" src="https://github.com/user-attachments/assets/14ffd731-0c68-402e-92ff-e4e31075e74d" />
+
+
+<img width="964" height="742" alt="Image" src="https://github.com/user-attachments/assets/0426936a-dc2c-43be-913b-82a05ad3dde5" />
+
+
+<img width="951" height="687" alt="Image" src="https://github.com/user-attachments/assets/7555812f-7286-4144-8865-2936a5ec6055" />
 
 
 
